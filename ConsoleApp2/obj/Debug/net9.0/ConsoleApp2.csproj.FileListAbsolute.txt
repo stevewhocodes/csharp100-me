@@ -1,0 +1,15 @@
+/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2
+/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.deps.json
+/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.runtimeconfig.json
+/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.dll
+/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.pdb
+/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.AssemblyInfoInputs.cache
+/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.AssemblyInfo.cs
+/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.sourcelink.json
+/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.dll
+/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/obj/Debug/net9.0/refint/ConsoleApp2.dll
+/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.pdb
+/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.genruntimeconfig.cache
+/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/obj/Debug/net9.0/ref/ConsoleApp2.dll

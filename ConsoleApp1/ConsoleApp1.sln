@@ -12,5 +12,6 @@ Global
 		{3A8E8B1C-21F2-4595-BF50-1D17A682A79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A8E8B1C-21F2-4595-BF50-1D17A682A79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A8E8B1C-21F2-4595-BF50-1D17A682A79C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8E8B1C-21F2-4595-BF50-1D17A682A79C}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

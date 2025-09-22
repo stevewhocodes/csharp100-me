@@ -1,38 +1,50 @@
-﻿// prompt user for HTTP status code
-Console.Write("Enter a Response Code: ");
-int input = int.Parse(Console.ReadLine());
+﻿int init, condition, increment;
 
-// Check response and print our response type
-// switch (input)
-// {
-//     case >= 100 and <= 199:
-//         Console.WriteLine($"{input} is a Informational response.");
-//         break;
-//     case > 199 and <= 299:
-//         Console.WriteLine($"{input} is a Successful response.");
-//         break;
-//     case > 299 and <= 399:
-//         Console.WriteLine($"{input} is a Redirection response.");
-//         break;
-//     case > 399 and <= 499:
-//         Console.WriteLine($"{input} is a Client error response.");
-//         break;
-//     case > 499 and <= 599:
-//         Console.WriteLine($"{input} is a Server error response.");
-//         break;
-//     default:
-//         Console.WriteLine($"{input} is not a valid response.");
-//         break;
-// }
-
-string result = input switch
+do
 {
-    >= 100 and <= 199 => $"{input} is a Informational response.",
-    > 199 and <= 299 => $"{input} is a Successful response.",
-    > 299 and <= 399 => $"{input} is a Redirection response.",
-    > 399 and <= 499 => $"{input} is a Client error response.",
-    > 499 and <= 599 => $"{input} is a Server error response.",
-    _ => $"{input} is not a valid response."
-    
-};
-Console.WriteLine(result);
+    Console.Write("Enter loop init: ");
+    if (int.TryParse(Console.ReadLine(), out init))
+    {
+        break;
+    }
+    Console.WriteLine("That is not a valid int.");
+} while (true);
+do
+{
+    Console.Write("Enter loop increment: ");
+    if (int.TryParse(Console.ReadLine(), out increment))
+    {
+       break;
+    }
+    Console.WriteLine("That is not a valid int.");
+} while (true);
+do
+{
+    Console.Write("Enter loop condition: ");
+    if (int.TryParse(Console.ReadLine(), out condition))
+    {
+        if (increment < 0 && condition < init)
+        {
+            for (int i = init; i > condition; i += increment)
+            {
+                Console.WriteLine(i);
+            }
+            break;
+        } 
+        else if (increment > 0 && condition > init)
+        {
+            for (int i = init; i < condition; i += increment)
+            {
+                Console.WriteLine(i);
+            }
+            break;
+        }
+        else
+        {
+            Console.WriteLine("If Condition is negative, must be less than the init value");
+            Console.WriteLine("If Condition is positive, must be greater than the init value");
+        }
+    }
+    Console.WriteLine("That is not a valid int.");
+} while (true);
+

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/ConsoleApp2.csproj",
+      "projectUniqueName": "/home/ironmonkus/github/csharp100-me/ConsoleApp2/ConsoleApp2.csproj",
       "projectName": "ConsoleApp2",
-      "projectPath": "/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/ConsoleApp2.csproj",
+      "projectPath": "/home/ironmonkus/github/csharp100-me/ConsoleApp2/ConsoleApp2.csproj",
       "packagesPath": "/home/ironmonkus/.nuget/packages/",
-      "outputPath": "/home/ironmonkus/github/csharp_course/csharp100-me/ConsoleApp2/obj/",
+      "outputPath": "/home/ironmonkus/github/csharp100-me/ConsoleApp2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ironmonkus/.nuget/NuGet/NuGet.Config"
@@ -26,7 +26,6 @@
         "net9.0"
       ],
       "sources": {
-        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -66,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

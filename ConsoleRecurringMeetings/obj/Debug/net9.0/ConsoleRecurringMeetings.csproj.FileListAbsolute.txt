@@ -1,0 +1,15 @@
+/home/ironmonkus/github/csharp100-me/ConsoleRecurringMeetings/bin/Debug/net9.0/ConsoleRecurringMeetings
+/home/ironmonkus/github/csharp100-me/ConsoleRecurringMeetings/bin/Debug/net9.0/ConsoleRecurringMeetings.deps.json
+/home/ironmonkus/github/csharp100-me/ConsoleRecurringMeetings/bin/Debug/net9.0/ConsoleRecurringMeetings.runtimeconfig.json
+/home/ironmonkus/github/csharp100-me/ConsoleRecurringMeetings/bin/Debug/net9.0/ConsoleRecurringMeetings.dll
+/home/ironmonkus/github/csharp100-me/ConsoleRecurringMeetings/bin/Debug/net9.0/ConsoleRecurringMeetings.pdb
+/home/ironmonkus/github/csharp100-me/ConsoleRecurringMeetings/obj/Debug/net9.0/ConsoleRecurringMeetings.GeneratedMSBuildEditorConfig.editorconfig
+/home/ironmonkus/github/csharp100-me/ConsoleRecurringMeetings/obj/Debug/net9.0/ConsoleRecurringMeetings.AssemblyInfoInputs.cache
+/home/ironmonkus/github/csharp100-me/ConsoleRecurringMeetings/obj/Debug/net9.0/ConsoleRecurringMeetings.AssemblyInfo.cs
+/home/ironmonkus/github/csharp100-me/ConsoleRecurringMeetings/obj/Debug/net9.0/ConsoleRecurringMeetings.csproj.CoreCompileInputs.cache
+/home/ironmonkus/github/csharp100-me/ConsoleRecurringMeetings/obj/Debug/net9.0/ConsoleRecurringMeetings.sourcelink.json
+/home/ironmonkus/github/csharp100-me/ConsoleRecurringMeetings/obj/Debug/net9.0/ConsoleRecurringMeetings.dll
+/home/ironmonkus/github/csharp100-me/ConsoleRecurringMeetings/obj/Debug/net9.0/refint/ConsoleRecurringMeetings.dll
+/home/ironmonkus/github/csharp100-me/ConsoleRecurringMeetings/obj/Debug/net9.0/ConsoleRecurringMeetings.pdb
+/home/ironmonkus/github/csharp100-me/ConsoleRecurringMeetings/obj/Debug/net9.0/ConsoleRecurringMeetings.genruntimeconfig.cache
+/home/ironmonkus/github/csharp100-me/ConsoleRecurringMeetings/obj/Debug/net9.0/ref/ConsoleRecurringMeetings.dll

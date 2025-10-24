@@ -1,0 +1,15 @@
+/home/ironmonkus/github/csharp100-me/refactorRecurringMeeting/bin/Debug/net9.0/refactorRecurringMeeting
+/home/ironmonkus/github/csharp100-me/refactorRecurringMeeting/bin/Debug/net9.0/refactorRecurringMeeting.deps.json
+/home/ironmonkus/github/csharp100-me/refactorRecurringMeeting/bin/Debug/net9.0/refactorRecurringMeeting.runtimeconfig.json
+/home/ironmonkus/github/csharp100-me/refactorRecurringMeeting/bin/Debug/net9.0/refactorRecurringMeeting.dll
+/home/ironmonkus/github/csharp100-me/refactorRecurringMeeting/bin/Debug/net9.0/refactorRecurringMeeting.pdb
+/home/ironmonkus/github/csharp100-me/refactorRecurringMeeting/obj/Debug/net9.0/refactorRecurringMeeting.GeneratedMSBuildEditorConfig.editorconfig
+/home/ironmonkus/github/csharp100-me/refactorRecurringMeeting/obj/Debug/net9.0/refactorRecurringMeeting.AssemblyInfoInputs.cache
+/home/ironmonkus/github/csharp100-me/refactorRecurringMeeting/obj/Debug/net9.0/refactorRecurringMeeting.AssemblyInfo.cs
+/home/ironmonkus/github/csharp100-me/refactorRecurringMeeting/obj/Debug/net9.0/refactorRecurringMeeting.csproj.CoreCompileInputs.cache
+/home/ironmonkus/github/csharp100-me/refactorRecurringMeeting/obj/Debug/net9.0/refactorRecurringMeeting.sourcelink.json
+/home/ironmonkus/github/csharp100-me/refactorRecurringMeeting/obj/Debug/net9.0/refactorRecurringMeeting.dll
+/home/ironmonkus/github/csharp100-me/refactorRecurringMeeting/obj/Debug/net9.0/refint/refactorRecurringMeeting.dll
+/home/ironmonkus/github/csharp100-me/refactorRecurringMeeting/obj/Debug/net9.0/refactorRecurringMeeting.pdb
+/home/ironmonkus/github/csharp100-me/refactorRecurringMeeting/obj/Debug/net9.0/refactorRecurringMeeting.genruntimeconfig.cache
+/home/ironmonkus/github/csharp100-me/refactorRecurringMeeting/obj/Debug/net9.0/ref/refactorRecurringMeeting.dll

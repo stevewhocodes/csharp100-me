@@ -1,0 +1,14 @@
+/Users/ironmonkus/github/csharp100/LockerRental/bin/Debug/net9.0/LockerRental
+/Users/ironmonkus/github/csharp100/LockerRental/bin/Debug/net9.0/LockerRental.deps.json
+/Users/ironmonkus/github/csharp100/LockerRental/bin/Debug/net9.0/LockerRental.runtimeconfig.json
+/Users/ironmonkus/github/csharp100/LockerRental/bin/Debug/net9.0/LockerRental.dll
+/Users/ironmonkus/github/csharp100/LockerRental/bin/Debug/net9.0/LockerRental.pdb
+/Users/ironmonkus/github/csharp100/LockerRental/obj/Debug/net9.0/LockerRental.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ironmonkus/github/csharp100/LockerRental/obj/Debug/net9.0/LockerRental.AssemblyInfoInputs.cache
+/Users/ironmonkus/github/csharp100/LockerRental/obj/Debug/net9.0/LockerRental.AssemblyInfo.cs
+/Users/ironmonkus/github/csharp100/LockerRental/obj/Debug/net9.0/LockerRental.csproj.CoreCompileInputs.cache
+/Users/ironmonkus/github/csharp100/LockerRental/obj/Debug/net9.0/LockerRental.dll
+/Users/ironmonkus/github/csharp100/LockerRental/obj/Debug/net9.0/refint/LockerRental.dll
+/Users/ironmonkus/github/csharp100/LockerRental/obj/Debug/net9.0/LockerRental.pdb
+/Users/ironmonkus/github/csharp100/LockerRental/obj/Debug/net9.0/LockerRental.genruntimeconfig.cache
+/Users/ironmonkus/github/csharp100/LockerRental/obj/Debug/net9.0/ref/LockerRental.dll

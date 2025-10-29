@@ -12,14 +12,23 @@
 // An application loop should keep users in the program until they choose to quit.
 // Users should never be able to crash the program with bad input. Use TryParse() and loops to prevent this. 
 
-// 
+
+
+/*----------------------
+ |  variables
+ -----------------------*/
+int choice = 0; // Menu Choice
+int lockerNum = 0; // locker number choice
+
+/*--------------------------------
+ |  Array to store locker contents
+ --------------------------------*/
+string[] locker = new string[100];
 
 /*----------------------
  |  Menu Options
  -----------------------*/
-int choice = 0;
-
-while (choice != 5)
+while (true)
 {
     Console.Clear();
     
@@ -51,52 +60,106 @@ while (choice != 5)
         }
 
     } while (true);
+
+    /*---------------------------------------
+    |  Exit application if 5. Quit is chosen. 
+    ----------------------------------------*/
+    if (choice == 5)
+    {
+        Console.WriteLine("Thanks, and have a great day!");
+        break;
+    }
     
     /*----------------------
-    |  Viewing a Locker
+    |  Choose a locker number
     -----------------------*/
-
-    string[] locker = new string[100];
-    locker[0] = "fish";
-
+    
     do
     {
-        Console.Write("Enter a locker number (1-100): ");
-        if (int.TryParse(Console.ReadLine(), out choice))
+        if (choice == 4)
         {
-            if (choice >= 1 && choice <= 100)
+            break;
+        }
+        else
+        {
+            Console.Write("Enter a locker number (1-100): ");
+            if (int.TryParse(Console.ReadLine(), out lockerNum))
             {
-                break;
+                if (lockerNum >= 1 && lockerNum <= 100)
+                {
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Invalid choice.");
+                }
             }
             else
             {
                 Console.WriteLine("Invalid choice.");
             }
         }
-        else
-        {
-            Console.WriteLine("Invalid choice.");
-        }
         
     }while (true);
     
+    /*-------------------------
+    |  Execute Menu choices
+    --------------------------*/
+    
     switch (choice)
     {
-        case 1:
-            if (string.IsNullOrEmpty(locker[choice - 1]))
+        case 1: // View a locker
+            if (string.IsNullOrEmpty(locker[lockerNum - 1]))
             {
-                Console.WriteLine($"Locker {choice} is EMPTY!");
+                Console.WriteLine($"Locker {lockerNum} is EMPTY!");
             }
             else
             {
-                Console.WriteLine($"Locker {choice} contents: {locker[choice - 1]}");
+                Console.WriteLine($"Locker {lockerNum} contents: {locker[lockerNum - 1]}");
             }
             break;
-            
+        case 2: // Rent a locker
+            if (locker[lockerNum - 1] != null)
+            {
+                Console.WriteLine($"Sorry, but Locker {lockerNum} has already been rented!");
+            }
+            else
+            {
+                Console.Write("Enter the item you want to store in the locker: ");
+                locker[lockerNum -1] = Console.ReadLine();
+                Console.WriteLine($"Locker {lockerNum} has been rented for {locker[lockerNum -1]} storage.");
+            }
+            break;
+        case 3: // End a locker rental
+            if (locker[lockerNum - 1] == null)
+            {
+                Console.WriteLine($"Locker {lockerNum} is not currently rented.");
+            }
+            else
+            {
+                string item = locker[lockerNum - 1];
+                locker[lockerNum - 1] = null;
+                Console.WriteLine($"Locker {lockerNum} has ended, please take your {item}");
+            }
+            break;
+        case 4: // list all lockers and contents
+            Console.WriteLine();
+            for (int i = 0; i < locker.Length; i++)
+            {
+                if (!string.IsNullOrEmpty(locker[i]))
+                {
+                    Console.WriteLine($"Locker {i + 1}: {locker[i]}");
+                    
+                }
+               
+            }
+            break;
     }
     
-    
-    // Wait for keypress to list the menu again
+    /*----------------------------------------
+   |  Wait for keypress to list the menu again
+   ------------------------------------------*/
+  
     Console.WriteLine("\nPress any key to continue...");
     Console.ReadKey();
 }

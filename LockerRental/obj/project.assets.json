@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/ironmonkus/.nuget/packages/": {}
+    "/home/ironmonkus/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ironmonkus/github/csharp100/LockerRental/LockerRental.csproj",
+      "projectUniqueName": "/home/ironmonkus/github/csharp100-me/LockerRental/LockerRental.csproj",
       "projectName": "LockerRental",
-      "projectPath": "/Users/ironmonkus/github/csharp100/LockerRental/LockerRental.csproj",
-      "packagesPath": "/Users/ironmonkus/.nuget/packages/",
-      "outputPath": "/Users/ironmonkus/github/csharp100/LockerRental/obj/",
+      "projectPath": "/home/ironmonkus/github/csharp100-me/LockerRental/LockerRental.csproj",
+      "packagesPath": "/home/ironmonkus/.nuget/packages/",
+      "outputPath": "/home/ironmonkus/github/csharp100-me/LockerRental/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ironmonkus/.nuget/NuGet/NuGet.Config"
+        "/home/ironmonkus/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

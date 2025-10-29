@@ -1,0 +1,15 @@
+/home/ironmonkus/github/csharp100-me/highLowAverage/bin/Debug/net9.0/highLowAverage
+/home/ironmonkus/github/csharp100-me/highLowAverage/bin/Debug/net9.0/highLowAverage.deps.json
+/home/ironmonkus/github/csharp100-me/highLowAverage/bin/Debug/net9.0/highLowAverage.runtimeconfig.json
+/home/ironmonkus/github/csharp100-me/highLowAverage/bin/Debug/net9.0/highLowAverage.dll
+/home/ironmonkus/github/csharp100-me/highLowAverage/bin/Debug/net9.0/highLowAverage.pdb
+/home/ironmonkus/github/csharp100-me/highLowAverage/obj/Debug/net9.0/highLowAverage.GeneratedMSBuildEditorConfig.editorconfig
+/home/ironmonkus/github/csharp100-me/highLowAverage/obj/Debug/net9.0/highLowAverage.AssemblyInfoInputs.cache
+/home/ironmonkus/github/csharp100-me/highLowAverage/obj/Debug/net9.0/highLowAverage.AssemblyInfo.cs
+/home/ironmonkus/github/csharp100-me/highLowAverage/obj/Debug/net9.0/highLowAverage.csproj.CoreCompileInputs.cache
+/home/ironmonkus/github/csharp100-me/highLowAverage/obj/Debug/net9.0/highLowAverage.sourcelink.json
+/home/ironmonkus/github/csharp100-me/highLowAverage/obj/Debug/net9.0/highLowAverage.dll
+/home/ironmonkus/github/csharp100-me/highLowAverage/obj/Debug/net9.0/refint/highLowAverage.dll
+/home/ironmonkus/github/csharp100-me/highLowAverage/obj/Debug/net9.0/highLowAverage.pdb
+/home/ironmonkus/github/csharp100-me/highLowAverage/obj/Debug/net9.0/highLowAverage.genruntimeconfig.cache
+/home/ironmonkus/github/csharp100-me/highLowAverage/obj/Debug/net9.0/ref/highLowAverage.dll

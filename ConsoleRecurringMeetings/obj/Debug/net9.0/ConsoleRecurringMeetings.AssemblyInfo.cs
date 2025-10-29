@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleRecurringMeetings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4171fd2f45f6b094e734464842b1be9c71e639dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f46dd02fb0d9a854fe76e53b82b6b412fb63633")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleRecurringMeetings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleRecurringMeetings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

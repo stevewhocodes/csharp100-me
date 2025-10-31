@@ -1,0 +1,15 @@
+/home/ironmonkus/github/csharp100-me/test/bin/Debug/net9.0/test
+/home/ironmonkus/github/csharp100-me/test/bin/Debug/net9.0/test.deps.json
+/home/ironmonkus/github/csharp100-me/test/bin/Debug/net9.0/test.runtimeconfig.json
+/home/ironmonkus/github/csharp100-me/test/bin/Debug/net9.0/test.dll
+/home/ironmonkus/github/csharp100-me/test/bin/Debug/net9.0/test.pdb
+/home/ironmonkus/github/csharp100-me/test/obj/Debug/net9.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/ironmonkus/github/csharp100-me/test/obj/Debug/net9.0/test.AssemblyInfoInputs.cache
+/home/ironmonkus/github/csharp100-me/test/obj/Debug/net9.0/test.AssemblyInfo.cs
+/home/ironmonkus/github/csharp100-me/test/obj/Debug/net9.0/test.csproj.CoreCompileInputs.cache
+/home/ironmonkus/github/csharp100-me/test/obj/Debug/net9.0/test.sourcelink.json
+/home/ironmonkus/github/csharp100-me/test/obj/Debug/net9.0/test.dll
+/home/ironmonkus/github/csharp100-me/test/obj/Debug/net9.0/refint/test.dll
+/home/ironmonkus/github/csharp100-me/test/obj/Debug/net9.0/test.pdb
+/home/ironmonkus/github/csharp100-me/test/obj/Debug/net9.0/test.genruntimeconfig.cache
+/home/ironmonkus/github/csharp100-me/test/obj/Debug/net9.0/ref/test.dll

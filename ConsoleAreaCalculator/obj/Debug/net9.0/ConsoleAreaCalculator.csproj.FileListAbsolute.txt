@@ -1,0 +1,14 @@
+/home/ironmonkus/RiderProjects/ConsoleAreaCalculator/bin/Debug/net9.0/ConsoleAreaCalculator
+/home/ironmonkus/RiderProjects/ConsoleAreaCalculator/bin/Debug/net9.0/ConsoleAreaCalculator.deps.json
+/home/ironmonkus/RiderProjects/ConsoleAreaCalculator/bin/Debug/net9.0/ConsoleAreaCalculator.runtimeconfig.json
+/home/ironmonkus/RiderProjects/ConsoleAreaCalculator/bin/Debug/net9.0/ConsoleAreaCalculator.dll
+/home/ironmonkus/RiderProjects/ConsoleAreaCalculator/bin/Debug/net9.0/ConsoleAreaCalculator.pdb
+/home/ironmonkus/RiderProjects/ConsoleAreaCalculator/obj/Debug/net9.0/ConsoleAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/ironmonkus/RiderProjects/ConsoleAreaCalculator/obj/Debug/net9.0/ConsoleAreaCalculator.AssemblyInfoInputs.cache
+/home/ironmonkus/RiderProjects/ConsoleAreaCalculator/obj/Debug/net9.0/ConsoleAreaCalculator.AssemblyInfo.cs
+/home/ironmonkus/RiderProjects/ConsoleAreaCalculator/obj/Debug/net9.0/ConsoleAreaCalculator.csproj.CoreCompileInputs.cache
+/home/ironmonkus/RiderProjects/ConsoleAreaCalculator/obj/Debug/net9.0/ConsoleAreaCalculator.dll
+/home/ironmonkus/RiderProjects/ConsoleAreaCalculator/obj/Debug/net9.0/refint/ConsoleAreaCalculator.dll
+/home/ironmonkus/RiderProjects/ConsoleAreaCalculator/obj/Debug/net9.0/ConsoleAreaCalculator.pdb
+/home/ironmonkus/RiderProjects/ConsoleAreaCalculator/obj/Debug/net9.0/ConsoleAreaCalculator.genruntimeconfig.cache
+/home/ironmonkus/RiderProjects/ConsoleAreaCalculator/obj/Debug/net9.0/ref/ConsoleAreaCalculator.dll

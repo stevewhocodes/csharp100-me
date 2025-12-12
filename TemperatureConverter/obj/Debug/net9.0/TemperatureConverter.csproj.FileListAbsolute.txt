@@ -1,0 +1,15 @@
+/home/ironmonkus/github/csharp100-me/TemperatureConverter/bin/Debug/net9.0/TemperatureConverter
+/home/ironmonkus/github/csharp100-me/TemperatureConverter/bin/Debug/net9.0/TemperatureConverter.deps.json
+/home/ironmonkus/github/csharp100-me/TemperatureConverter/bin/Debug/net9.0/TemperatureConverter.runtimeconfig.json
+/home/ironmonkus/github/csharp100-me/TemperatureConverter/bin/Debug/net9.0/TemperatureConverter.dll
+/home/ironmonkus/github/csharp100-me/TemperatureConverter/bin/Debug/net9.0/TemperatureConverter.pdb
+/home/ironmonkus/github/csharp100-me/TemperatureConverter/obj/Debug/net9.0/TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+/home/ironmonkus/github/csharp100-me/TemperatureConverter/obj/Debug/net9.0/TemperatureConverter.AssemblyInfoInputs.cache
+/home/ironmonkus/github/csharp100-me/TemperatureConverter/obj/Debug/net9.0/TemperatureConverter.AssemblyInfo.cs
+/home/ironmonkus/github/csharp100-me/TemperatureConverter/obj/Debug/net9.0/TemperatureConverter.csproj.CoreCompileInputs.cache
+/home/ironmonkus/github/csharp100-me/TemperatureConverter/obj/Debug/net9.0/TemperatureConverter.sourcelink.json
+/home/ironmonkus/github/csharp100-me/TemperatureConverter/obj/Debug/net9.0/TemperatureConverter.dll
+/home/ironmonkus/github/csharp100-me/TemperatureConverter/obj/Debug/net9.0/refint/TemperatureConverter.dll
+/home/ironmonkus/github/csharp100-me/TemperatureConverter/obj/Debug/net9.0/TemperatureConverter.pdb
+/home/ironmonkus/github/csharp100-me/TemperatureConverter/obj/Debug/net9.0/TemperatureConverter.genruntimeconfig.cache
+/home/ironmonkus/github/csharp100-me/TemperatureConverter/obj/Debug/net9.0/ref/TemperatureConverter.dll

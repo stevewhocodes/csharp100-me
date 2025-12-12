@@ -1,0 +1,15 @@
+/home/ironmonkus/github/csharp100-me/Console-Properties/bin/Debug/net9.0/Console-Properties
+/home/ironmonkus/github/csharp100-me/Console-Properties/bin/Debug/net9.0/Console-Properties.deps.json
+/home/ironmonkus/github/csharp100-me/Console-Properties/bin/Debug/net9.0/Console-Properties.runtimeconfig.json
+/home/ironmonkus/github/csharp100-me/Console-Properties/bin/Debug/net9.0/Console-Properties.dll
+/home/ironmonkus/github/csharp100-me/Console-Properties/bin/Debug/net9.0/Console-Properties.pdb
+/home/ironmonkus/github/csharp100-me/Console-Properties/obj/Debug/net9.0/Console-Properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/ironmonkus/github/csharp100-me/Console-Properties/obj/Debug/net9.0/Console-Properties.AssemblyInfoInputs.cache
+/home/ironmonkus/github/csharp100-me/Console-Properties/obj/Debug/net9.0/Console-Properties.AssemblyInfo.cs
+/home/ironmonkus/github/csharp100-me/Console-Properties/obj/Debug/net9.0/Console-Properties.csproj.CoreCompileInputs.cache
+/home/ironmonkus/github/csharp100-me/Console-Properties/obj/Debug/net9.0/Console-Properties.sourcelink.json
+/home/ironmonkus/github/csharp100-me/Console-Properties/obj/Debug/net9.0/Console-Properties.dll
+/home/ironmonkus/github/csharp100-me/Console-Properties/obj/Debug/net9.0/refint/Console-Properties.dll
+/home/ironmonkus/github/csharp100-me/Console-Properties/obj/Debug/net9.0/Console-Properties.pdb
+/home/ironmonkus/github/csharp100-me/Console-Properties/obj/Debug/net9.0/Console-Properties.genruntimeconfig.cache
+/home/ironmonkus/github/csharp100-me/Console-Properties/obj/Debug/net9.0/ref/Console-Properties.dll

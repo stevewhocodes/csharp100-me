@@ -7,6 +7,6 @@ public class Circle
 
     public double GetArea(double radius)
     {
-        return Math.PI * radius * radius;
+        return Math.PI * Math.Pow(radius, 2);
     }
 }

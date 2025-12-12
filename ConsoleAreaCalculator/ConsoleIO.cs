@@ -17,7 +17,7 @@ public class ConsoleIO
         Console.WriteLine("3. Triangle");
         Console.WriteLine("4. Quit");
         Console.Write("\nEnter choice: ");
-        
+
     }
 
     public int GetMenuChoice()
@@ -27,17 +27,12 @@ public class ConsoleIO
             DisplayMenu();
             if (int.TryParse(Console.ReadLine(), out _choice))
             {
-                break;
+                if (_choice >= 1 && _choice <= 4)
+                {
+                    return _choice;
+                }
             }
-            else
-            {
-                Console.WriteLine("Invalid choice");
-            }
-            
-        }while (true);
-
-        return _choice;
-        
+        } while (true);
     }
 
     public double GetPositiveValue(string prompt)
@@ -47,22 +42,13 @@ public class ConsoleIO
             Console.Write(prompt);
             if (double.TryParse(Console.ReadLine(), out _answer))
             {
-                if (_answer > 0)
+                if (_answer >= 0)
                 {
-                    break;
+                    return _answer;
                 }
-                else
-                {
-                    Console.WriteLine("Not a positive number.");
-                }
-            }
-            else
-            {
-                Console.WriteLine("Invalid input");
             }
 
+            Console.WriteLine("Not a positive number.");
         } while (true);
-
-        return _answer;
     }
-}
+}   

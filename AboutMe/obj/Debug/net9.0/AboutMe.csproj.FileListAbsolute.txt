@@ -1,0 +1,15 @@
+/home/ironmonkus/github/csharp100-me/AboutMe/bin/Debug/net9.0/AboutMe
+/home/ironmonkus/github/csharp100-me/AboutMe/bin/Debug/net9.0/AboutMe.deps.json
+/home/ironmonkus/github/csharp100-me/AboutMe/bin/Debug/net9.0/AboutMe.runtimeconfig.json
+/home/ironmonkus/github/csharp100-me/AboutMe/bin/Debug/net9.0/AboutMe.dll
+/home/ironmonkus/github/csharp100-me/AboutMe/bin/Debug/net9.0/AboutMe.pdb
+/home/ironmonkus/github/csharp100-me/AboutMe/obj/Debug/net9.0/AboutMe.GeneratedMSBuildEditorConfig.editorconfig
+/home/ironmonkus/github/csharp100-me/AboutMe/obj/Debug/net9.0/AboutMe.AssemblyInfoInputs.cache
+/home/ironmonkus/github/csharp100-me/AboutMe/obj/Debug/net9.0/AboutMe.AssemblyInfo.cs
+/home/ironmonkus/github/csharp100-me/AboutMe/obj/Debug/net9.0/AboutMe.csproj.CoreCompileInputs.cache
+/home/ironmonkus/github/csharp100-me/AboutMe/obj/Debug/net9.0/AboutMe.sourcelink.json
+/home/ironmonkus/github/csharp100-me/AboutMe/obj/Debug/net9.0/AboutMe.dll
+/home/ironmonkus/github/csharp100-me/AboutMe/obj/Debug/net9.0/refint/AboutMe.dll
+/home/ironmonkus/github/csharp100-me/AboutMe/obj/Debug/net9.0/AboutMe.pdb
+/home/ironmonkus/github/csharp100-me/AboutMe/obj/Debug/net9.0/AboutMe.genruntimeconfig.cache
+/home/ironmonkus/github/csharp100-me/AboutMe/obj/Debug/net9.0/ref/AboutMe.dll

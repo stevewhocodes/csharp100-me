@@ -1,0 +1,15 @@
+/home/ironmonkus/github/csharp100-me/UsingProperties/bin/Debug/net9.0/UsingProperties
+/home/ironmonkus/github/csharp100-me/UsingProperties/bin/Debug/net9.0/UsingProperties.deps.json
+/home/ironmonkus/github/csharp100-me/UsingProperties/bin/Debug/net9.0/UsingProperties.runtimeconfig.json
+/home/ironmonkus/github/csharp100-me/UsingProperties/bin/Debug/net9.0/UsingProperties.dll
+/home/ironmonkus/github/csharp100-me/UsingProperties/bin/Debug/net9.0/UsingProperties.pdb
+/home/ironmonkus/github/csharp100-me/UsingProperties/obj/Debug/net9.0/UsingProperties.GeneratedMSBuildEditorConfig.editorconfig
+/home/ironmonkus/github/csharp100-me/UsingProperties/obj/Debug/net9.0/UsingProperties.AssemblyInfoInputs.cache
+/home/ironmonkus/github/csharp100-me/UsingProperties/obj/Debug/net9.0/UsingProperties.AssemblyInfo.cs
+/home/ironmonkus/github/csharp100-me/UsingProperties/obj/Debug/net9.0/UsingProperties.csproj.CoreCompileInputs.cache
+/home/ironmonkus/github/csharp100-me/UsingProperties/obj/Debug/net9.0/UsingProperties.sourcelink.json
+/home/ironmonkus/github/csharp100-me/UsingProperties/obj/Debug/net9.0/UsingProperties.dll
+/home/ironmonkus/github/csharp100-me/UsingProperties/obj/Debug/net9.0/refint/UsingProperties.dll
+/home/ironmonkus/github/csharp100-me/UsingProperties/obj/Debug/net9.0/UsingProperties.pdb
+/home/ironmonkus/github/csharp100-me/UsingProperties/obj/Debug/net9.0/UsingProperties.genruntimeconfig.cache
+/home/ironmonkus/github/csharp100-me/UsingProperties/obj/Debug/net9.0/ref/UsingProperties.dll

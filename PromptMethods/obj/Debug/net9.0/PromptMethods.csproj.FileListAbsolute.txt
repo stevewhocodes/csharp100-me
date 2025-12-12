@@ -1,0 +1,15 @@
+/home/ironmonkus/github/csharp100-me/PromptMethods/bin/Debug/net9.0/PromptMethods
+/home/ironmonkus/github/csharp100-me/PromptMethods/bin/Debug/net9.0/PromptMethods.deps.json
+/home/ironmonkus/github/csharp100-me/PromptMethods/bin/Debug/net9.0/PromptMethods.runtimeconfig.json
+/home/ironmonkus/github/csharp100-me/PromptMethods/bin/Debug/net9.0/PromptMethods.dll
+/home/ironmonkus/github/csharp100-me/PromptMethods/bin/Debug/net9.0/PromptMethods.pdb
+/home/ironmonkus/github/csharp100-me/PromptMethods/obj/Debug/net9.0/PromptMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/ironmonkus/github/csharp100-me/PromptMethods/obj/Debug/net9.0/PromptMethods.AssemblyInfoInputs.cache
+/home/ironmonkus/github/csharp100-me/PromptMethods/obj/Debug/net9.0/PromptMethods.AssemblyInfo.cs
+/home/ironmonkus/github/csharp100-me/PromptMethods/obj/Debug/net9.0/PromptMethods.csproj.CoreCompileInputs.cache
+/home/ironmonkus/github/csharp100-me/PromptMethods/obj/Debug/net9.0/PromptMethods.sourcelink.json
+/home/ironmonkus/github/csharp100-me/PromptMethods/obj/Debug/net9.0/PromptMethods.dll
+/home/ironmonkus/github/csharp100-me/PromptMethods/obj/Debug/net9.0/refint/PromptMethods.dll
+/home/ironmonkus/github/csharp100-me/PromptMethods/obj/Debug/net9.0/PromptMethods.pdb
+/home/ironmonkus/github/csharp100-me/PromptMethods/obj/Debug/net9.0/PromptMethods.genruntimeconfig.cache
+/home/ironmonkus/github/csharp100-me/PromptMethods/obj/Debug/net9.0/ref/PromptMethods.dll
